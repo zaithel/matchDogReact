@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-matchdog-staging-203445-authRole",
+      "UnauthRoleArn": "arn:aws:iam::346098279411:role/amplify-matchdog-staging-203445-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::346098279411:role/amplify-matchdog-staging-203445-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-matchdog-staging-203445-deployment",
+      "UnauthRoleName": "amplify-matchdog-staging-203445-unauthRole",
+      "StackName": "amplify-matchdog-staging-203445",
+      "StackId": "arn:aws:cloudformation:us-east-2:346098279411:stack/amplify-matchdog-staging-203445/0ef96250-01f6-11ec-a8e0-06366ed20de4",
+      "AmplifyAppId": "d1e969m02gok81"
+    }
+  }
+}
